@@ -51,4 +51,4 @@ console.log(obj1.languages[0]); // "javascript"
 console.log(obj1.languages[1]); // "python"
 console.log(obj1.languages[2]); // "java"
 obj1.greet(); // "Hello, prasanna"
-obj1.languages.push("c++"); // Adds "c++" to the languages array
+obj1.languages.push("c++"); // Adds "c++" to the languages a
